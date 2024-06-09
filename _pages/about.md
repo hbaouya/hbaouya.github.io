@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems. Now, I am working on integrating Machine learning techniques for modeling CPS with formal proof.
+<div style="text-align: right;">I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems. Now, I am working on integrating Machine Learning techniques for modeling CPS with formal proof.</div>
 
 News
 ------
