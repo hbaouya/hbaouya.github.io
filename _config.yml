@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hakim"
+  name             : "Associate Professor of Computer Engineering"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
+  bio              : "University of Toulouse - Jean Jaurès"
   location         : "Toulouse"
   employer         : "University of Toulouse - Jean Jaurès"
   uri              : # URL
