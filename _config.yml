@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Abdelhakim Baouya"
 title_separator          : "-"
-name                     : &name "Hakim"
+name                     : &name "Associate Professor of Computer Engineering"
 description              : &description "personal description"
-url                      : https://hbaouya.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hbaouya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
