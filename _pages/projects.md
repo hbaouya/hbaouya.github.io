@@ -10,18 +10,12 @@ redirect_from:
 
 ## Research Leader
 
-### IRIT
 
-| Project Name | Start | End | Support |
+| Project Name |   Institution | Start | End | Support |
 |---|---|---|---|
-| [ACIS-IoT](https://acis-iot.github.io/) | January 2023 | December 2023 | 8.5 K |  
-| [HERMES-Design](https://hermes-design.github.io/) | September 2023 |  December 2025 | 15 K |  
-
-### UT2J
-
-| Project Name | Start | End | Support |
-|---|---|---|---|
-| Assistant Professor | September 2022 | December 2024 | 4 K | 
+| [ACIS-IoT](https://acis-iot.github.io/) | CNRS - IRIT |January 2023 | December 2023 | 8.5 K |  
+| [HERMES-Design](https://hermes-design.github.io/) | [ICO](https://www.ico-occitanie.fr/)  | September 2023 |  December 2025 | 15 K |  
+| Assistant Professor | University of Toulouse - UT2J |September 2022 | December 2024 | 4 K | 
 
 
 ## As Research Assistant
