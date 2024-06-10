@@ -17,21 +17,21 @@ redirect_from:
 
 | Project Name | Start | End | Support |
 |---|---|---|---|
-| [ACIS-IoT](#) | January 2023 | December 2023 |  |  
-| [HERMES-Design](#) | 2019 |  Description missing |  |  
+| [ACIS-IoT](https://acis-iot.github.io/) | January 2023 | December 2023 | 8.5 K |  
+| [HERMES-Design](https://hermes-design.github.io/) | September 2023 |  December 2025 | 15 K |  
 
 ### UT2J
 
 | Project Name | Start | End | Support |
 |---|---|---|---|
-| Assistant Professor | September 2023 | December 2024 |  | 
+| Assistant Professor | September 2022 | December 2024 | 4 K | 
 
 
 ## As Research Assistant
 
 ### VERIMAG
 
-| Project Name | Start | End | Support |
+| Project Name | Start | End | Support | Leader |
 |---|---|---|---|
-| [BRAIN-IoT](#) | January 2023 | December 2023 |  |  
-| [CPS4EU](#) | 2019 |  Description missing |  |  
+| [BRAIN-IoT](#) | January 2023 | December 2023 | H2020 | UGA- SADDEK BENSALEM |
+| [CPS4EU](#) | 2019 |  Description missing | H2020 | UGA- SADDEK BENSALEM | 
