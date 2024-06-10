@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
-  - /portfolio.html
 ---
 
 
