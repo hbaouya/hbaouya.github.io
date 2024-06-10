@@ -1,6 +1,11 @@
 ---
-title: "Portfolio item number 1"
-collection: portfolio
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /projects
+  - /portfolio.html
 ---
 
 ## Projects
