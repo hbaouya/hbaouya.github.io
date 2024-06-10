@@ -31,4 +31,4 @@ redirect_from:
 | Project Name | Start | End | Support | Leader |
 |---|---|---|---|
 | [BRAIN-IoT](https://www.brain-iot.eu/) | January 2023 | December 2023 | H2020 | UGA- SADDEK BENSALEM |
-| [CPS4EU](https://cps4eu.eu/) | 2019 |  Description missing | H2020 | UGA- SADDEK BENSALEM | 
+| [CPS4EU](https://cps4eu.eu/) | 2019 |  2023 | H2020 | UGA- SADDEK BENSALEM | 
