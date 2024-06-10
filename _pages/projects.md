@@ -8,10 +8,8 @@ redirect_from:
   - /portfolio.html
 ---
 
-## Projects
 
-
-**Research Leader**
+## Research Leader
 
 ### IRIT
 
@@ -33,5 +31,5 @@ redirect_from:
 
 | Project Name | Start | End | Support | Leader |
 |---|---|---|---|
-| [BRAIN-IoT](#) | January 2023 | December 2023 | H2020 | UGA- SADDEK BENSALEM |
-| [CPS4EU](#) | 2019 |  Description missing | H2020 | UGA- SADDEK BENSALEM | 
+| [BRAIN-IoT](https://www.brain-iot.eu/) | January 2023 | December 2023 | H2020 | UGA- SADDEK BENSALEM |
+| [CPS4EU](https://cps4eu.eu/) | 2019 |  Description missing | H2020 | UGA- SADDEK BENSALEM | 
