@@ -1,27 +1,7 @@
-## Projects
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
-
-**Research Leader**
-
-### IRIT
-
-| Project Name | Start | End | Support |
-|---|---|---|---|
-| [ACIS-IoT](#) | January 2023 | December 2023 | 8.3 k euro |  
-| [HERMES-Design](#) | 2019 |  Description missing | 15 k euro |  
-
-### UT2J
-
-| Project Name | Start | End | Support |
-|---|---|---|---|
-| Assistant Professor | September 2023 | December 2024 | 4 k euro  |  
-
-
-## As Research Assistant
-
-### VERIMAG
-
-| Project Name | Start | End | Support |
-|---|---|---|---|
-| [BRAIN-IoT](#) | Jannuary 2018 | December 2021 |  |  
-| [CPS4EU](#) | Jannuary 2019 | December 2022 |  |  
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
