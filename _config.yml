@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Associate Professor of Computer Engineering"
   pronouns         : # example: "she/her"  
   bio              : "University of Toulouse - Jean Jaurès             <br>         ACM Member          <br>    <br>               Indoor Rock Climbing, Cycling, Archery"
