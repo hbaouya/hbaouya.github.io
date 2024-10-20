@@ -14,8 +14,6 @@ News
 <div style="text-align: justify;">Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. “Model-Based Reliability, Availability, and Maintainability Analysis for Satellite Systems with Collaborative Maneuvers via Stochastic Games”. In: The 50th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA). 2024. August 2024.</div>
 
 <br>
-<br>
-
 <div style="text-align: justify;">Baouya Abdelhakim , Hamid, Brahim, Gürgen, Levent, and Bensalem, Saddek. Rigorous Security Analysis of RabbitMQ Broker with Concurrent Stochastic Games. Elsevier Journal Internet of Things,  Impact factor: 6.0. (Scimago Journal Rank = Q1), July 2024.</div>
 
 
