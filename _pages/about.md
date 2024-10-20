@@ -17,7 +17,9 @@ News
 <div style="text-align: justify;">Baouya Abdelhakim , Hamid, Brahim, Gürgen, Levent, and Bensalem, Saddek. Rigorous Security Analysis of RabbitMQ Broker with Concurrent Stochastic Games. Elsevier Journal Internet of Things,  Impact factor: 6.0. (Scimago Journal Rank = Q1), July 2024.</div>
 
 
-
+   <div class="hidden">
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5mo8xt39x3p" async="async"></script>
+   </div>
 
 <img src='/images/logo1.png'>
 

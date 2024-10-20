@@ -4,13 +4,25 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+.presentations {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
-{% if site.talkmap_link == true %}
+.presentations li {
+  margin-bottom: 10px;
+}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<ul class="presentations">
+  <li>
+    **Baouya, Abdelhakim.** (August 2018). Safety analysis and code synthesis of a train control system based on a model-driven design methodology [Master's thesis, Concordia University, Montréal, Canada].
+  </li>
+  <li>
+    **Baouya, Abdelhakim.** (June 08-12, 2022). Artificial Intelligence meets Formal Methods: Generation and verification of learned stochastic automata. Presented at the 3rd Summer School on Cyber-Physical Systems and Internet of Things, Budva, Montenegro. [University of Grenoble-Alpes, FR]
+  </li>
+  <li>
+    **Baouya, Abdelhakim**, &amp; **Chehida, Salim.** (June 08-12, 2021). Design and verification of collaborative robot's system. Presented at the 2nd Summer School on Cyber-Physical Systems and Internet of Things, Budva, Montenegro. [University of Grenoble-Alpes, FR]
+  </li>
+</ul>
