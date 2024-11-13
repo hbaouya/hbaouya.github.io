@@ -14,6 +14,7 @@ News
 
 <div style="text-align: justify;"> Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem, Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games, Springer Journal Soft Computing, Impact factor: 3.1.(In press). 2025.</div>
 
+<br>
 <div style="text-align: justify;">Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. “Model-Based Reliability, Availability, and Maintainability Analysis for Satellite Systems with Collaborative Maneuvers via Stochastic Games”. In: The 50th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA). 2024. August 2024.</div>
 
 <br>
