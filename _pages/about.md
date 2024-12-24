@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof under security constraints.</div>
+<div style="text-align: justify;">I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof.</div>
 
 News
 ------
 
+<div style="text-align: justify;"> Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations, Elsevier Ad Hoc Networks, Impact factor: 4.4.(In press). 2025.</div>
+<br>
 <div style="text-align: justify;"> Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem, Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games, Springer Journal Soft Computing, Impact factor: 3.1.(In press). 2025.</div>
 
 <br>

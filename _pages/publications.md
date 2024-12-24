@@ -7,6 +7,7 @@ author_profile: true
 
 ## Journals (Selected articles)
 
+* Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations, Elsevier Ad Hoc Networks, (In press),
 * Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem, Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games, Springer Soft Computing, (In press),
 * Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem, Rigorous Security Analysis of RabbitMQ Broker with Concurrent Stochastic Games, Elsevier Internet of Things, Volume 26, 2024, 101161, ISSN 2542-6605,
 * Abdelhakim Baouya, Salim Chehida, Saddek Bensalem, Levent Gürgen, Richard Nicholson, Miquel Cantero, Mario Diaz-Nava, Enrico Ferrera: Deploying warehouse robots with confidence: the BRAIN-IoT framework's functional assurance. Springer J. Supercomput. 80(1): 1206-1237 (2024).
