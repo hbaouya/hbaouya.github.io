@@ -34,6 +34,24 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4910252&101" alt="free stats" border="0"></a></noscript>
+
+
+<!-- Default Statcounter code for personal https://hbaouya.github.io/ -->
+<script type="text/javascript">
+var sc_project=13082662; 
+var sc_invisible=1; 
+var sc_security="865a8384"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+Statcounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/13082662/0/865a8384/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<a href="https://statcounter.com/p13082662/?guest=1">View My Stats</a>
+
    </div>
 
 <img src='/images/logo1.png'>
