@@ -9,15 +9,6 @@ redirect_from:
 
 <style>
     /* Custom font for better readability */
-    body {
-        font-family: "Inter", sans-serif;
-        /* Enhanced background with a subtle gradient and pattern-like effect */
-        background: radial-gradient(circle at top left, #e0f2f7, transparent),
-                    radial-gradient(circle at bottom right, #e8f5e9, transparent);
-        background-color: #f8fafc; /* Lighter base background */
-        color: #333; /* Darker text for contrast */
-        line-height: 1.6;
-    }
     .news-item {
         /* More pronounced shadows, border, and slightly softer rounded corners */
         background-color: #ffffff; /* White background */
@@ -34,7 +25,7 @@ redirect_from:
     }
     .section-title {
         /* More vibrant gradient and subtle text shadow */
-        font-size: 3rem; /* text-5xl */
+        font-size: 2rem; /* text-5xl */
         font-weight: 800; /* font-extrabold */
         margin-bottom: 2rem; /* mb-8 */
         text-align: center;
