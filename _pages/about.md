@@ -57,9 +57,24 @@ redirect_from:
         margin-bottom: 2.5rem; /* mb-10 */
         border-radius: 9999px; /* rounded-full */
     }
+	
+	@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+    body {
+        font-family: 'Inter', sans-serif;
+    }
+    .text-justify-custom {
+        text-align: justify;
+        hyphens: auto; /* For better hyphenation on supported browsers */
+    }
 </style>
 <script src="https://cdn.tailwindcss.com"></script>
 
+<div class="bg-white text-gray-900 p-6 rounded-xl shadow-xl border border-gray-200">
+    <p class="font-inter text-lg leading-relaxed text-justify-custom mb-4 font-normal">
+      I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof.
+ </p>
+
+</div>
 
 <div class="text-justify-custom text-gray-700 text-lg leading-relaxed mb-8">
 I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof.
