@@ -7,20 +7,91 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof.</div>
+<style>
+    /* Custom font for better readability */
+    body {
+        font-family: "Inter", sans-serif;
+        /* Enhanced background with a subtle gradient and pattern-like effect */
+        background: radial-gradient(circle at top left, #e0f2f7, transparent),
+                    radial-gradient(circle at bottom right, #e8f5e9, transparent);
+        background-color: #f8fafc; /* Lighter base background */
+        color: #333; /* Darker text for contrast */
+        line-height: 1.6;
+    }
+    .news-item {
+        /* More pronounced shadows, border, and slightly softer rounded corners */
+        background-color: #ffffff; /* White background */
+        padding: 1.5rem; /* p-6 */
+        border-radius: 0.75rem; /* rounded-xl */
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); /* shadow-xl */
+        margin-bottom: 1.5rem; /* mb-6 */
+        transition: all 0.3s ease-in-out;
+        border: 1px solid #f3f4f6; /* border border-gray-100 */
+    }
+    .news-item:hover {
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); /* shadow-2xl */
+        transform: scale(1.01);
+    }
+    .section-title {
+        /* More vibrant gradient and subtle text shadow */
+        font-size: 3rem; /* text-5xl */
+        font-weight: 800; /* font-extrabold */
+        margin-bottom: 2rem; /* mb-8 */
+        text-align: center;
+        letter-spacing: -0.025em; /* tracking-tight */
+        background-image: linear-gradient(to right, #2563EB, #1E40AF); /* Stronger blue gradient */
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.1); /* Subtle text shadow */
+    }
+    /* Custom style for justify text without inline styles */
+    .text-justify-custom {
+        text-align: justify;
+    }
+    .news-item p {
+        color: #4b5563; /* text-gray-700 */
+        line-height: 1.625; /* leading-relaxed */
+        font-size: 1.125rem; /* text-lg */
+    }
+    .news-item span {
+        color: #1d4ed8; /* text-blue-700 */
+        font-weight: 600; /* font-semibold */
+    }
+    .section-hr {
+        border-top-width: 4px; /* border-t-4 */
+        border-color: #93c5fd; /* border-blue-300 */
+        width: 6rem; /* w-24 */
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2.5rem; /* mb-10 */
+        border-radius: 9999px; /* rounded-full */
+    }
+</style>
+<script src="https://cdn.tailwindcss.com"></script>
 
-News
-------
 
-<div style="text-align: justify;"> Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations, Elsevier Ad Hoc Networks, Impact factor: 4.4.(In press). 2025.</div>
-<br>
-<div style="text-align: justify;"> Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem, Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games, Springer Journal Soft Computing, Impact factor: 3.1.(In press). 2025.</div>
+<div class="text-justify-custom text-gray-700 text-lg leading-relaxed mb-8">
+I am an Associate Professor in the Department of Computer Science at the University of Toulouse - Jean Jaurès. My research focuses on applying formal methods for verification and validation of cyber-physical systems. In particular, I'm interested in modeling the reliability, availability, and maintainability (RAM) of these systems while considering Security aspects. I am currently working on integrating human capabilities into CPS modeling with formal proof.
+</div>
 
-<br>
-<div style="text-align: justify;">Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem. “Model-Based Reliability, Availability, and Maintainability Analysis for Satellite Systems with Collaborative Maneuvers via Stochastic Games”. In: The 50th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA). 2024. August 2024.</div>
+<h2 class="section-title">News & Publications</h2>
+<hr class="section-hr">
 
-<br>
-<div style="text-align: justify;">Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem. Rigorous Security Analysis of RabbitMQ Broker with Concurrent Stochastic Games. Elsevier Journal Internet of Things,  Impact factor: 6.0. (Scimago Journal Rank = Q1), July 2024.</div>
+<div class="news-item">
+<p class="text-justify-custom">
+Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem.
+<span class="font-semibold text-blue-600">Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations</span>,
+Elsevier Ad Hoc Networks, Impact factor: 4.4. 2025.
+</p>
+</div>
+
+<div class="news-item">
+<p class="text-justify-custom">
+Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem,
+<span class="font-semibold text-blue-600">Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games</span>,
+Springer Journal Soft Computing, Impact factor: 3.1. 2025.
+</p>
+</div>
 
 
    <div class="hidden">
