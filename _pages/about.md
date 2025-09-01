@@ -80,20 +80,23 @@ redirect_from:
 <hr class="section-hr">
 
 <div class="news-item">
-<p class="text-justify-custom">
-Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, and Saddek Bensalem.
-<span class="font-semibold text-blue-600">Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations</span>,
-Elsevier Ad Hoc Networks, Impact factor: 4.4. 2025.
+<h2>
+  <span style="color: #0047AB;">
+    Publication Accepted and Forthcoming! &#128640;
+  </span>
+</h2>
+<p>
+  We are pleased to announce that our new publication is scheduled for release by the end of the year.
 </p>
 </div>
 
-<div class="news-item">
-<p class="text-justify-custom">
-Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem,
-<span class="font-semibold text-blue-600">Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games</span>,
+<!-- <div class="news-item">
+``<p class="text-justify-custom">
+``Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem,
+``<span class="font-semibold text-blue-600">Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games</span>,
 Springer Journal Soft Computing, Impact factor: 3.1. 2025.
 </p>
-</div>
+</div>-->
 
 
    <div class="hidden">
