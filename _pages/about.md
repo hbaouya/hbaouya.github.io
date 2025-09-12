@@ -85,17 +85,17 @@ redirect_from:
     Publication Accepted and Forthcoming! &#128640;
   </span>
 </h2>
-<p>
-  We are pleased to announce that our new publication is scheduled for release by the end of the year.
+
+<p class="text-justify-custom">
+Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem,
+<span class="font-semibold text-blue-600">Model-based dependability and performance analysis for satellite systems with collaborative maintenance maneuvers via stochastic games</span>,
+Elsevier Journal of Systems and Software, Impact factor: 4.1. 2025 (In press).
+
 </p>
 </div>
 
-<!-- <div class="news-item">
-``<p class="text-justify-custom">
-``Abdelhakim Baouya, Brahim Hamid, Levent Gürgen, Saddek Bensalem,
-``<span class="font-semibold text-blue-600">Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games</span>,
-Springer Journal Soft Computing, Impact factor: 3.1. 2025.
-</p>
+<!--<div class="news-item">
+
 </div>-->
 
 
