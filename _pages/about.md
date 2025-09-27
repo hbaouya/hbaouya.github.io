@@ -89,7 +89,7 @@ redirect_from:
 <p class="text-justify-custom">
 Abdelhakim Baouya, Brahim Hamid, Otmane Ait Mohamed, Saddek Bensalem,
 <span class="font-semibold text-blue-600">Model-based dependability and performance analysis for satellite systems with collaborative maintenance maneuvers via stochastic games</span>,
-Elsevier Journal of Systems and Software, Impact factor: 4.1. 2025 (In press).
+Elsevier Journal of Systems and Software, Impact factor: 4.1. 2026.
 
 </p>
 </div>
