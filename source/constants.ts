@@ -71,7 +71,7 @@ export const PUBLICATIONS: Publication[] = [
     id: 't1',
     title: 'Design of Embedded Systems Based on The Concept of Software Architecture',
     authors: 'Baouya Abdelhakim',
-    venue: 'University of Blida, Algeria',
+    venue: 'University of Blida, Algeria and Concordia University, Canada',
     date: 'Apr 2016',
     type: 'Thesis',
   },
