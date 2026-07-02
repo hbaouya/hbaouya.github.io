@@ -11,7 +11,6 @@ import Projects from './pages/Projects';
 import Activities from './pages/Activities';
 import Conversation from './pages/Conversation';
 import { ProfileDataProvider } from './profileDataContext';
-import DataEditor from './components/DataEditor';
 
 const PageWrapper: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return (
@@ -101,7 +100,6 @@ const App: React.FC = () => {
             </main>
           </div>
         </div>
-        <DataEditor />
       </ProfileDataProvider>
     </HashRouter>
   );

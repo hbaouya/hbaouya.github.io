@@ -1,0 +1,371 @@
+{
+  "profile": {
+    "name": "Dr. Abdelhakim Baouya",
+    "title": "Associate Professor",
+    "image": "images/bio-photo-2.jpg",
+    "emails": [
+      { "email": "abdelhakim.baouya@irit.fr", "title": "IRIT Email" },
+      { "email": "abaouya@acm.org", "title": "ACM Email" }
+    ],
+    "location": "University of Toulouse - UT2\nIRIT/CNRS",
+    "socials": {
+      "scholar": "#",
+      "linkedin": "https://www.linkedin.com/in/dynamoz/",
+      "github": "#",
+      "researchgate": "#"
+    },
+    "managementRole": {
+      "title": "Program Director",
+      "institution": "Bachelor of Computer Science Program, Toulouse Jean-Jaurès University",
+      "period": "Since Sept 2023",
+      "description": "Leading the academic and pedagogical coordination of the program, ensuring curriculum alignment with industry standards and research advancements."
+    }
+  },
+  "biography": {
+    "paragraphs": [
+      "I am an Associate Professor at the University of Toulouse Jean Jaurès (UT2) and a researcher at the Institut de Recherche en Informatique de Toulouse (IRIT).",
+      "My research interests lie in Model-Based Engineering and Formal Methods. I pioneer next-generation methodologies for automated verification and validation (V&V) of complex system models (AADL, BIP, UML/SysML). My work is particularly devoted to Model-Based Dependability Assessment of Cyber-Physical Systems (CPS), including satellite platform systems. I also integrate human-in-the-loop considerations by modeling human operators to analyze human error propagation and situational awareness in critical operational scenarios."
+    ],
+    "focusAreas": [
+      "Model-Based Engineering",
+      "Formal Methods",
+      "Safety-Critical Systems",
+      "Human-in-the-Loop Systems"
+    ],
+    "pillars": [
+      {
+        "title": "Cyber-Physical Systems",
+        "icon": "fa-solid fa-satellite",
+        "description": "Ensuring the dependability and dynamic performance of critical infrastructure ranging from nanosatellites to robotic fleets."
+      },
+      {
+        "title": "Formal Verification",
+        "icon": "fa-solid fa-brain",
+        "description": "Integrating model checking, static analysis, and logic strategies to build provably correct system environments."
+      },
+      {
+        "title": "Human-in-the-Loop",
+        "icon": "fa-solid fa-users-gear",
+        "description": "Developing mathematical and logical models of human actions to model error propagation and support secure decisions."
+      }
+    ],
+    "interests": [
+      { "name": "Indoor Rock Climbing", "icon": "fas fa-mountain" },
+      { "name": "Cycling", "icon": "fas fa-bicycle" },
+      { "name": "Archery", "icon": "fas fa-bullseye" },
+      { "name": "Swimming", "icon": "fas fa-swimmer" },
+      { "name": "Hiking", "icon": "fas fa-hiking" }
+    ]
+  },
+  "news": [
+    {
+      "month": "Jan",
+      "year": "2026",
+      "text": "A. Baouya, B. Hamid, O. Ait Mohamed, & S. Bensalem. \"Model-based dependability and performance analysis for satellite systems with collaborative maintenance maneuvers via stochastic games\" Elsevier Journal of Systems and Software (IF: 4.4)."
+    },
+    {
+      "month": "Oct",
+      "year": "2025",
+      "text": "Joined the GT ICO (Groupe de travail Facteur Humain & Cybersécurité) funded by ICO.",
+      "link": "https://gtico.github.io/",
+      "linkText": "GT ICO"
+    },
+    {
+      "month": "Mar",
+      "year": "2025",
+      "text": "A. Baouya, B. Hamid, O. Ait Mohamed, & S. Bensalem. \"Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations.\" Elsevier Ad Hoc Networks (IF: 4.4)."
+    }
+  ],
+  "publications": [
+    {
+      "id": "j11",
+      "title": "Model-based dependability and performance analysis for satellite systems with collaborative maintenance maneuvers via stochastic games",
+      "authors": "Baouya Abdelhakim, Hamid Brahim, Otmane Ait Mohamed, & Bensalem Saddek",
+      "venue": "Elsevier Journal of Systems and Software, Impact factor: 4.4.",
+      "date": "Jan 2026",
+      "type": "Journal"
+    },
+    {
+      "id": "j10",
+      "title": "Detection and Mitigation of Clock Deviation in the Verification & Validation of Drone-aided Lifting Operations",
+      "authors": "Baouya Abdelhakim, Hamid Brahim, Otmane Ait Mohamed, & Bensalem Saddek",
+      "venue": "Elsevier Ad Hoc Networks, Impact factor: 4.4. ",
+      "date": "Mar 2025",
+      "type": "Journal"
+    },
+    {
+      "id": "j9",
+      "title": "Modeling and Analysis of Data Corruption Attacks and Energy Consumption Effects on Edge Servers using Concurrent Stochastic Games",
+      "authors": "Baouya Abdelhakim, Hamid Brahim, Gürgen Levent, & Bensalem Saddek",
+      "venue": "Springer Soft Computing, Impact factor: 3.1. ",
+      "date": "Jan 2025",
+      "type": "Journal"
+    },
+    {
+      "id": "j8",
+      "title": "Rigorous Security Analysis of RabbitMQ Broker with Concurrent Stochastic Games",
+      "authors": "Baouya Abdelhakim, Hamid Brahim, Gürgen Levent, & Bensalem Saddek",
+      "venue": "Elsevier Internet of Things, Impact factor: 5.9.",
+      "date": "Jun 2024",
+      "type": "Journal"
+    },
+    {
+      "id": "j7",
+      "title": "Deploying warehouse robots with confidence: The BRAIN-IoT framework’s functional assurance",
+      "authors": "Baouya Abdelhakim, Chehida S., Bensalem S., et al.",
+      "venue": "The Journal of Supercomputing, Springer, Impact factor: 2.557.",
+      "date": "Jun 2022",
+      "type": "Journal"
+    },
+    {
+      "id": "c11",
+      "title": "Model-Based Reliability, Availability, and Maintainability Analysis for Satellite Systems with Collaborative Maneuvers via Stochastic Games",
+      "authors": "Baouya Abdelhakim, Hamid Brahim, Otmane Ait Mohamed, & Bensalem Saddek",
+      "venue": "The 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA 2024)",
+      "date": "Aug 2024",
+      "type": "Conference"
+    },
+    {
+      "id": "c10",
+      "title": "Formal Modelling and Security Analysis of Inter-Operable Systems",
+      "authors": "Baouya Abdelhakim, Ouchani Samir & Bensalem Saddek",
+      "venue": "IEA/AIE, 35th Int. Conf. on Industrial, Engineering & Other Applications of Applied Intelligent Systems, JAPAN",
+      "date": "Jan 2022",
+      "type": "Conference"
+    },
+    {
+      "id": "w1",
+      "title": "Model Based Methodology and Framework for Design and Management of Next-Gen IoT Systems",
+      "authors": "Xu Tao et al., including Baouya Abdelhakim",
+      "venue": "Eclipse SAM IoT 2020 Conference",
+      "date": "2020",
+      "type": "Workshop",
+      "badges": ["Best Paper Award"]
+    },
+    {
+      "id": "t1",
+      "title": "Design of Embedded Systems Based on The Concept of Software Architecture",
+      "authors": "Baouya Abdelhakim",
+      "venue": "The University of Blida, Algeria, with the support of Concordia University, under the supervision of Professors Otmane Ait Mohamed and Djamal Bennouar.",
+      "date": "Apr 2016",
+      "type": "Thesis"
+    }
+  ],
+  "talks": [
+  
+    {
+      "id": "t6",
+      "title": "Secure and Resilient Engineering of Cyber-Physical Systems (CPS) via Stochastic Games",
+      "event": "Invited Talk",
+      "location": "Budva , Montenegro",
+      "date": "2026"
+    },
+  
+    {
+      "id": "t5",
+      "title": "Rigorous Design of Component-based Architecture: Research Activities",
+      "event": "Invited Talk",
+      "location": "ECE Department, Concordia University, Montreal, Canada",
+      "date": "2023"
+    },
+    {
+      "id": "t1",
+      "title": "Artificial Intelligence meets Formal Methods: Generation and verification of learned stochastic automata",
+      "event": "3rd Summer School on Cyber-Physical Systems and Internet of Things",
+      "location": "Budva, Montenegro",
+      "date": "June 08-12, 2022",
+      "note": "Univ. Grenoble-Alpes, FR"
+    },
+    {
+      "id": "t2",
+      "title": "Design and verification of collaborative robot's system",
+      "event": "2nd Summer School on Cyber-Physical Systems and Internet of Things",
+      "location": "Budva, Montenegro",
+      "date": "June 08-12, 2021",
+      "note": "Univ. Grenoble-Alpes, FR. (With Chehida, Salim)"
+    },
+    {
+      "id": "t3",
+      "title": "Safety analysis and code synthesis of a train control system based on a model-driven design methodology",
+      "event": "Invited Talk",
+      "location": "Concordia University, Montréal, Canada",
+      "date": "August 2018"
+    }
+  ],
+  "teaching": [
+    {
+      "institution": "University of Toulouse - UT2",
+      "role": "Current Position",
+      "period": "",
+      "icon": "fas fa-university",
+      "courses": [
+        { "name": "Algorithms and Programming", "level": "L1" },
+        { "name": "Algorithms and Programming", "level": "L2" },
+        { "name": "Human-Machine Interaction", "level": "L2" },
+        { "name": "Introduction to Computer Science", "level": "L2" },
+        { "name": "Software Verification", "level": "L3" },
+        { "name": "Software Validation", "level": "M1" }
+      ]
+    },
+    {
+      "institution": "University of Grenoble Alpes",
+      "role": "2018 - 2022",
+      "period": "2018 - 2022",
+      "icon": "fas fa-mountain",
+      "courses": [
+        { "name": "Algorithms and Programming", "level": "L1" }
+      ]
+    },
+    {
+      "institution": "University of Blida",
+      "role": "2016 - 2018",
+      "period": "2016 - 2018",
+      "icon": "fas fa-shield-alt",
+      "courses": [
+        { "name": "IT Security", "level": "M1" },
+        { "name": "Networking", "level": "M1" },
+        { "name": "Software Architecture", "level": "M2" },
+        { "name": "Cyber-Security", "level": "M2" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "name": "HERMES-Design",
+      "description": "Human-Centric Collaborative Architectural Decision-Making for Secure System Design. Supported by ICO.",
+      "duration": "2023 - 2025",
+      "funding": "15 k€",
+      "role": "Leader",
+      "url": "https://hermes-design.github.io/"
+    },
+    {
+      "id": "p2",
+      "name": "ACIS-IoT",
+      "description": "Safety and Security Assurance for Critical IoT Systems. National project supported by CNRS-IRIT.",
+      "duration": "2023 - 2024",
+      "funding": "12.3 k€",
+      "role": "Leader",
+      "url": "https://acis-iot.github.io/"
+    },
+    {
+      "id": "p3",
+      "name": "CPS4EU",
+      "description": "Cyber-Physical Systems for Europe. Technical Manager.",
+      "duration": "Since Mar 2020",
+      "role": "Assistant"
+    },
+    {
+      "id": "p4",
+      "name": "BRAIN-IoT",
+      "description": "H2020. Model-Based Framework for dependable sensing and actuation in decentralized IoT systems. Technical Manager.",
+      "duration": "Oct 2018 - Mar 2021",
+      "role": "Assistant"
+    }
+  ],
+  "activities": {
+    "title": "Committees & Editorial Boards",
+    "items": [
+      {
+        "role": "Member & Web Developer",
+        "details": ["GT ICO (Groupe de travail Facteur Humain & Cybersécurité)"],
+        "icon": "fas fa-globe",
+        "url": "https://gtico.github.io/"
+      },
+      {
+        "role": "Program Committee Member",
+        "details": [
+          "Int. Symposium on Security, Privacy and Trust in Computing (SEPT) (COMPSAC 2026), Madrid, Spain.",
+          "20th Int. Conf. on Risks and Security of Internet and Systems (CRISIS 2025), Gatineau, Canada.",
+          "19th Int. Conf. on Risks and Security of Internet and Systems (CRISIS 2024), Aix-en-Provence, France."
+        ],
+        "icon": "fas fa-users"
+      },
+      {
+        "role": "Editorial Board Member",
+        "details": ["Elsevier Journal of Microprocessors and Microsystems (Since Sep 2023)."],
+        "icon": "fas fa-pen-nib"
+      },
+      {
+        "role": "PC Chair",
+        "details": ["The Smart Cyber-Physical Systems Symposium (SCPS 2021), Leuven, Belgium."],
+        "icon": "fas fa-gavel"
+      },
+      {
+        "role": "Steering Committee",
+        "details": [
+          "Symposium on Intelligent and Autonomous Systems (SIAS 2021), Tallinn, Estonia.",
+          "Symposium on Solutions for Smart Cities Challenges (SSCC 2020), Paris, France.",
+          "IFIP CIIA 2018, Oran, Algeria."
+        ],
+        "icon": "fas fa-compass"
+      }
+    ],
+    "reviewers": [
+      {
+        "publisher": "ACM & IEEE",
+        "icon": "fas fa-book-open",
+        "journals": [
+          "ACM Distributed Ledger Technologies: Research and Practice",
+          "IEEE The Journal of Internet of Things"
+        ]
+      },
+      {
+        "publisher": "Springer",
+        "icon": "fas fa-book-open",
+        "journals": [
+          "Journal of Automotive Engineering",
+          "Applied Intelligence",
+          "Journal of Automotive Innovation",
+          "Journal of Supercomputing",
+          "Journal of Soft Computing"
+        ]
+      },
+      {
+        "publisher": "Elsevier",
+        "icon": "fas fa-book-open",
+        "journals": [
+          "Journal of Expert Systems With Applications",
+          "Internet of Things",
+          "Computer Standards and Interfaces",
+          "Knowledge-Based Systems"
+        ]
+      }
+    ]
+  },
+  "interviews": [
+    {
+      "id": "1",
+      "date": "February 24, 2025",
+      "title": "The Architect of Dependable Systems",
+      "subtitle": "Precision in an Imprecise World",
+      "excerpt": "In an era defined by complexity, Dr. Baouya is pioneering the mathematical rigor required to keep our satellites flying and our factories running.",
+      "quote": "\"The engineering of dependable and secure systems isn't just a technical challenge. It is a societal imperative.\"",
+      "image": "images/bio-photo-2.jpg",
+      "intro": "In an era defined by complexity, Dr. Baouya is pioneering the mathematical rigor required to keep our satellites flying and our factories running. His work in Model-Based Engineering bridges the gap between theoretical formal methods and practical industrial application.",
+      "questions": [
+        {
+          "question": "Your research portfolio is incredibly diverse, ranging from satellite systems to warehouse robots. Is there a common thread that ties these domains together?",
+          "answer": "At their core, these are all Cyber-Physical Systems (CPS). Whether it's a satellite performing collaborative maintenance or a swarm of robots in a warehouse (like in the BRAIN-IoT project), the fundamental challenge is dependability. My work uses Model-Based Engineering and Formal Methods to mathematically guarantee that these systems behave exactly as intended, even when facing hardware faults or cyber-attacks. The context changes—from orbit to the factory floor—but the mathematical rigor remains the same."
+        },
+        {
+          "question": "You recently published in the Journal of Systems and Software about stochastic games. How does game theory intersect with satellite dependability?",
+          "answer": "Traditional verification often assumes a static environment. But in reality, systems interact—sometimes cooperatively, sometimes competitively, and sometimes against malicious actors. By modeling these interactions as stochastic games, we can predict how a system like a satellite constellation or an edge server will perform under stress or attack. It allows us to design strategies that optimize for safety and energy consumption simultaneously, ensuring that collaborative maneuvers don't compromise system integrity."
+        },
+        {
+          "question": "Leading projects like HERMES-Design and ACIS-IoT places you at the cutting edge of secure system design. How do you see the role of the human operator evolving?",
+          "answer": "We cannot automate everything—nor should we. The 'Human-in-the-loop' is critical. My work with HERMES-Design focuses on human-centric architectural decision-making. We need systems that don't just execute commands but understand the intent and limitations of their human operators. This prevents error propagation and ensures true resilience. It's about creating a partnership between the operator and the machine."
+        },
+        {
+          "question": "As a young researcher influencing the field through the ARGOS team, what is the 'Next Big Thing' for formal verification?",
+          "answer": "It is the convergence of Human-in-the-loop with Hardware-in-the-loop. We have excelled at verifying software models in isolation, but real-world dependability requires us to bridge the gap between abstract logic, physical hardware reality, and human decision-making. Integrating these dimensions into a unified, rigorous verification framework is the frontier I am dedicated to exploring."
+        }
+      ],
+      "at_a_glance": [
+        { "label": "Field of Study", "value": "Cyber-Physical Systems & Satellite Technology" },
+        { "label": "Key Methodology", "value": "Stochastic Games & Formal Verification" },
+        { "label": "Current Vision", "value": "Human-in-the-loop with Hardware-in-the-loop" }
+      ]
+    }
+  ]
+}
